@@ -54,9 +54,14 @@ escapado de simbolos \#texto  GUION ALREVES MAS HASHTAG
 
 **para links** [NOMBRE DE LA WEB] Y (LINK) 
 
-**para imagen** ![exclamacion mas corchete] (url de la imagen jpg) 
+**para imagen** ![exclamacion mas corchete - titulo ] (url de la imagen jpg) 
 
-**para imagen con link** ![exclamacion mas corchete
+**para imagen con link** ![exclamacion mas corchete] raya alreves (LIMK) 
+
+![MONITE] ([
+](https://share.google/lu1b3eEMZLpTwnL1B)
+
+
 
 
 
