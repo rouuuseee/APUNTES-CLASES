@@ -57,20 +57,3 @@ escapado de simbolos \#texto  GUION ALREVES MAS HASHTAG
 **para imagen** ![exclamacion mas corchete - titulo ] (url de la imagen jpg) 
 
 **para imagen con link** [![exclamacion mas corchete](URLimagen)](URLdestino) **como sacar link de la imagen** seleccionar imagen - clic derecho- copiar direccion de la imagen. 
-
-[![MONITE]([
-](https://concepto.de/mono/)]([
-](https://concepto.de/mono/#google_vignette) 
-
-
-[![MONO]([
-](https://cdn0.ecologiaverde.com/es/posts/0/2/7/mono_5720_600.webp)([
-](https://ecologiaverde.elperiodico.com/mono-5720.html) 
-
-#####  BLOQUES DE CODIGO 
-
-BACKTICK 
-
-###### TABLAS 
-
-
